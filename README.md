@@ -1,2 +1,8 @@
 # School-Managment-System-App
-The school Managment System App is developed by Muhammad Ishaq
+
+# School-Managment-System-App has follwoing Features
+
+- Admin Pannal
+- Student Pannal
+- Teacher Pannal
+
