@@ -6,9 +6,11 @@
 - Student Pannal
 - Teacher Pannal
 - Login
+- Logout
 - Registration
 - Add Student
 - Add Teacher
+- Search
 - Check Results
 - Check Fees
 - Check Records(subjects)
